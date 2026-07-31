@@ -4,7 +4,6 @@
 
 A modern shopping application built with **React Native CLI** that demonstrates authentication, REST API integration, product browsing, search functionality, session management, and clean project architecture.
 
-<img src="./images/banner.png" alt="Shopping App Banner" width="100%" />
 
 <br/>
 
